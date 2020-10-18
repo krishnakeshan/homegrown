@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "840806057462",
+    "firebase_url": "https://homegrown-daf74.firebaseio.com",
+    "project_id": "homegrown-daf74",
+    "storage_bucket": "homegrown-daf74.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:840806057462:android:7895db3deb5900c7bc33d7",
+        "android_client_info": {
+          "package_name": "com.qrilt.homegrown"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "840806057462-t2gqnqosbbnshd9e3vv8ckgaq2f5iksg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiytwlm-eBcSUzir-0KYusZxjPzvtIUPU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "840806057462-t2gqnqosbbnshd9e3vv8ckgaq2f5iksg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
